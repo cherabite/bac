@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Amiri';
+    src: url('/assets/dist/custum_font/AmiriBold.eot');
+    src: url('/assets/dist/custum_font/AmiriBold.eot?#iefix') format('embedded-opentype'),
+        url('/assets/dist/custum_font/AmiriBold.woff2') format('woff2'),
+        url('/assets/dist/custum_font/AmiriBold.woff') format('woff'),
+        url('/assets/dist/custum_font/AmiriBold.ttf') format('truetype'),
+        url('/assets/dist/custum_font/AmiriBold.svg#/assets/dist/custum_font/AmiriBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('/assets/dist/custum_font/AmiriRegular.eot');
+    src: url('/assets/dist/custum_font/AmiriRegular.eot?#iefix') format('embedded-opentype'),
+        url('/assets/dist/custum_font/AmiriRegular.woff2') format('woff2'),
+        url('/assets/dist/custum_font/AmiriRegular.woff') format('woff'),
+        url('/assets/dist/custum_font/AmiriRegular.ttf') format('truetype'),
+        url('/assets/dist/custum_font/AmiriRegular.svg#/assets/dist/custum_font/AmiriRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('/assets/dist/custum_font/AmiriBoldItalic.eot');
+    src: url('/assets/dist/custum_font/AmiriBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('/assets/dist/custum_font/AmiriBoldItalic.woff2') format('woff2'),
+        url('/assets/dist/custum_font/AmiriBoldItalic.woff') format('woff'),
+        url('/assets/dist/custum_font/AmiriBoldItalic.ttf') format('truetype'),
+        url('/assets/dist/custum_font/AmiriBoldItalic.svg#/assets/dist/custum_font/AmiriBoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Amiri';
+    src: url('/assets/dist/custum_font/AmiriRegular_1.eot');
+    src: url('/assets/dist/custum_font/AmiriRegular_1.eot?#iefix') format('embedded-opentype'),
+        url('/assets/dist/custum_font/AmiriRegular_1.woff2') format('woff2'),
+        url('/assets/dist/custum_font/AmiriRegular_1.woff') format('woff'),
+        url('/assets/dist/custum_font/AmiriRegular_1.ttf') format('truetype'),
+        url('/assets/dist/custum_font/AmiriRegular_1.svg#/assets/dist/custum_font/AmiriRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+

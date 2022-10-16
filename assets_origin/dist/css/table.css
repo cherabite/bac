@@ -1,0 +1,19 @@
+.page-item.active .page-link {
+  z-index: 1;
+  color: #fff;
+  background-color: black;
+  border-color: blueviolet;
+}
+.inputSearch[type="text"]:focus {
+  border: #fff;
+  border-style: solid;
+}
+.inputSearch[type="text"] {
+  text-align: center;
+  background-color: black;
+  color: #fff;
+  border: 1px solid gray;
+}
+input.budjet{
+  width: 200px;
+}
